@@ -1,3 +1,3 @@
-# tata
-tata is the first repository
-算法导论课程实验
+# FFT
+FFT is a repository.
+The FFT algorithm is implemented in a recursive way using the Java language. Convolution and deconvolution can be performed using FFT.
